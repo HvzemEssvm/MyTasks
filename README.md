@@ -6,6 +6,7 @@
 2. Used `touch UpdatePass.sh` to copy file from git repo to another directory on my machine every time instead of cp.
  
 **note that you won´t see except this README.md as it is the only file committed and push.**
+
 3. Edit bash file by `nano UpdatePass.sh` and getting the final directory to copy to by `pwd` command
 ```
 #!/bin/bash
