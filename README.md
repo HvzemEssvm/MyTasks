@@ -37,4 +37,4 @@ This file includes :
 ## 7th Task
 > This Branch includes only a README.md file that document all the linux commands in an interesting environment that fulfill that task.
 ___
-## *This documentation provided an overview about this repository, Aiming to make an experience filled with flexiblity and clearance, For any inquiries feel free to contact the owner of the repo*.
+## *This documentation provided an overview about this repository, Aiming to make an experience filled with flexiblity and clearance. For any further inquiries, feel free to contact the owner of the repo*.
