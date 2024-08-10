@@ -7,7 +7,7 @@
 *note that you won´t see except this README.md as it is the only file committed and push.*
 4. Edit bash file by `nano UpdatePass.sh` and getting the final directory to copy to by `pwd` command
 ```
-\#!/bin/bash
+#!/bin/bash
 cp BanditPass.txt "/home/hazem-essam/Test file" 
 echo "Password File Updated" 
 ```
